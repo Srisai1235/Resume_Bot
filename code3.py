@@ -35,7 +35,7 @@ intents = [
     {
         "tag": "email",
         "patterns": ["email", "contact email", "send you an email", "mail"],
-        "responses": ["You can email me at: srisaimunipalle9335@gmail.com"]
+        "responses": ["You can email me at: srisai@gmail.com"]
     },
     {
         "tag": "Mini Project",
@@ -56,7 +56,7 @@ intents = [
     {
         "tag": "phone",
         "patterns": ["phone number", "contact number", "call you", "mobile"],
-        "responses": ["You can reach me at: +91 6304447377"]
+        "responses": ["You can reach me at: +91 12345678"]
     },
     {
         "tag": "greeting",
